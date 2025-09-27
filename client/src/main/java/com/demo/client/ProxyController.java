@@ -1,6 +1,5 @@
 package com.demo.client;
 
-import com.demo.client.config.Service2Client;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
 

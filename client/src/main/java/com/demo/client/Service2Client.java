@@ -1,4 +1,4 @@
-package com.demo.client.config;
+package com.demo.client;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.http.HttpEntity;
